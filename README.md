@@ -44,7 +44,8 @@ Analysis (powerpoint):
 
 
 ## Files used
-DVD rental 	
+DVD rental
+[dvd-rental-erd](https://githuburbanengr/u_sql_projects) 	
 
 ## Credits
 
